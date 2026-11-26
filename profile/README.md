@@ -11,23 +11,27 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="assets/icon-guides.svg" alt="" width="44" height="44">
-      <h3>Developer guides</h3>
-      <p>Upgrades, version comparisons and fixes for PHP, Laravel, MySQL, Node.js and TypeScript, written against official documentation and release notes.</p>
-      <p><a href="https://www.cloudsoftzone.com/blog?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Browse the guides →</b></a></p>
+    <td width="72" align="center" valign="top"><a href="https://www.cloudsoftzone.com/blog?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><img src="assets/icon-guides.svg" alt="" width="48" height="48"></a></td>
+    <td valign="top">
+      <b><a href="https://www.cloudsoftzone.com/blog?utm_source=github&utm_medium=profile&utm_campaign=org-readme">Developer guides</a></b><br>
+      Upgrades, version comparisons and fixes for PHP, Laravel, MySQL, Node.js and TypeScript, written against official documentation and release notes.<br>
+      <a href="https://www.cloudsoftzone.com/blog?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Browse the guides →</b></a>
     </td>
-    <td width="33%" valign="top">
-      <img src="assets/icon-tools.svg" alt="" width="44" height="44">
-      <h3>Tools directory</h3>
-      <p>AI tools, developer tools, SaaS, hosting, security products and agencies. Each listing gives the pricing model, platforms and whether there is a free plan.</p>
-      <p><a href="https://www.cloudsoftzone.com/tools?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Find a tool →</b></a></p>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="top"><a href="https://www.cloudsoftzone.com/tools?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><img src="assets/icon-tools.svg" alt="" width="48" height="48"></a></td>
+    <td valign="top">
+      <b><a href="https://www.cloudsoftzone.com/tools?utm_source=github&utm_medium=profile&utm_campaign=org-readme">Tools directory</a></b><br>
+      AI tools, developer tools, SaaS, hosting, security products and agencies. Each listing gives the pricing model, platforms and whether there is a free plan.<br>
+      <a href="https://www.cloudsoftzone.com/tools?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Find a tool →</b></a>
     </td>
-    <td width="33%" valign="top">
-      <img src="assets/icon-services.svg" alt="" width="44" height="44">
-      <h3>Software services</h3>
-      <p>Custom software development, application modernisation, API integration and AI automation for founders and small businesses.</p>
-      <p><a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>See what we build →</b></a></p>
+  </tr>
+  <tr>
+    <td width="72" align="center" valign="top"><a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><img src="assets/icon-services.svg" alt="" width="48" height="48"></a></td>
+    <td valign="top">
+      <b><a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme">Software services</a></b><br>
+      Custom software development, application modernisation, API integration and AI automation for founders and small businesses.<br>
+      <a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>See what we build →</b></a>
     </td>
   </tr>
 </table>
@@ -116,15 +120,17 @@ mysql> SELECT DATABASE(), CURRENT_USER(), @@version;
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Is your product missing?</h3>
-      <p>We list software, tools and technology services that are useful to developers, founders and small businesses. Listings are written by our editors from your public website.</p>
-      <p><a href="https://www.cloudsoftzone.com/submit-listing?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Submit a listing →</b></a></p>
+    <td valign="top">
+      <b>Is your product missing?</b><br>
+      We list software, tools and technology services that are useful to developers, founders and small businesses. Listings are written by our editors from your public website.<br>
+      <a href="https://www.cloudsoftzone.com/submit-listing?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Submit a listing →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Need something built?</h3>
-      <p>Tell us what you are trying to ship: a new web application, an old one that needs modernising, an integration between systems, or an AI workflow.</p>
-      <p><a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Services →</b></a> &nbsp; <a href="https://www.cloudsoftzone.com/contact?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Contact →</b></a></p>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Need something built?</b><br>
+      Tell us what you are trying to ship: a new web application, an old one that needs modernising, an integration between systems, or an AI workflow.<br>
+      <a href="https://www.cloudsoftzone.com/services?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Services →</b></a> &nbsp; <a href="https://www.cloudsoftzone.com/contact?utm_source=github&utm_medium=profile&utm_campaign=org-readme"><b>Contact →</b></a>
     </td>
   </tr>
 </table>
@@ -134,6 +140,6 @@ mysql> SELECT DATABASE(), CURRENT_USER(), @@version;
   <a href="https://x.com/cloudsoftzone">X</a> ·
   <a href="https://www.facebook.com/cloudsoftzone">Facebook</a> ·
   <a href="https://www.instagram.com/cloudsoftzone">Instagram</a> ·
-  <a href="https://in.pinterest.com/cloudsoftzone">Pinterest</a> ·
+  <a href="https://in.pinterest.com/cloudsoftzone/">Pinterest</a> ·
   <a href="mailto:contact@cloudsoftzone.com">contact@cloudsoftzone.com</a>
 </p>
