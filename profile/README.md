@@ -100,12 +100,12 @@ mysql> SELECT DATABASE(), CURRENT_USER(), @@version;
 ## Latest guides
 
 <!-- latest:start -->
+- [Jenkins vs Bitbucket Pipelines vs GitHub Actions](https://www.cloudsoftzone.com/blog/jenkins-vs-bitbucket-pipelines-vs-github-actions?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · Reviews
+- [Upgrading a Laravel app to PHP 8.6: compatibility, deprecations and tests](https://www.cloudsoftzone.com/blog/upgrade-laravel-app-to-php-8-6-compatibility-test-plan?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · PHP
+- [Redis persistence explained: RDB vs AOF for SaaS recovery](https://www.cloudsoftzone.com/blog/redis-persistence-rdb-vs-aof-saas-recovery?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · DevOps
+- [What's new in PHP 8.6: partial function application, clamp(), Duration and more](https://www.cloudsoftzone.com/blog/whats-new-in-php-8-6-partial-application-clamp-duration?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · PHP
 - [Cloudflare EmDash: plugin isolation and WordPress migration](https://www.cloudsoftzone.com/blog/cloudflare-emdash-wordpress-alternative?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · WordPress
 - [Redis in production: cache, sessions, queues and memory management](https://www.cloudsoftzone.com/blog/redis-in-production-cache-sessions-queues-memory?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · DevOps
-- [Zendesk vs Intercom vs Help Scout for small support teams](https://www.cloudsoftzone.com/blog/zendesk-vs-intercom-vs-help-scout?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · Reviews
-- [MySQL vs PostgreSQL for SaaS hosting: operational differences small teams should evaluate](https://www.cloudsoftzone.com/blog/mysql-vs-postgresql-saas-hosting-operations?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · DevOps
-- [MAI Code 1.1 Flash: what local Windows inference needs](https://www.cloudsoftzone.com/blog/mai-code-1-1-flash-local-windows?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · AI and Automation
-- [MySQL production configuration for Laravel applications: a safe operating baseline](https://www.cloudsoftzone.com/blog/mysql-production-configuration-laravel-applications?utm_source=github&utm_medium=profile&utm_campaign=org-readme) · DevOps
 <!-- latest:end -->
 
 <sub>This list updates itself every day.</sub> [All guides →](https://www.cloudsoftzone.com/blog?utm_source=github&utm_medium=profile&utm_campaign=org-readme)
